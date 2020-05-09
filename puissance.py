@@ -45,6 +45,7 @@ while 1:
         print(" - Auteur : Alan Bédrine")
         print(" - Version du programme :", versionprog)
         print(" - Dernière mise a jour :", majdate)
+        print(" - Contribuer / source  : https://github.com/alanbedrine/PyTools")
         print("")
     elif option == "3":
         print("")

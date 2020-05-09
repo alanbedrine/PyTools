@@ -24,11 +24,14 @@ while 1:
 
 
     elif option == "2":
+        print("")
         print("Infos :")
         print(" - Nom : Distance")
         print(" - Auteur : Alan Bédrine")
         print(" - Version du programme :", versionprog)
         print(" - Dernière mise a jour :", majdate)
+        print(" - Contribuer / source  : https://github.com/alanbedrine/PyTools")
+        print("")
     elif option == "3":
         print("")
         print("Fin du programme")
