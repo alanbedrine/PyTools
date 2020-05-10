@@ -14,15 +14,10 @@ while 1:
     print("")
 
     if option == "1":
-
         print("")
         def dist(xa,ya,xb,yb):
             d = sqrt((xb-xa)**2+(yb-ya)**2)
             return d
-
-
-
-
     elif option == "2":
         print("")
         print("Infos :")

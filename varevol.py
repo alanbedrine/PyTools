@@ -14,7 +14,6 @@ while 1:
     print("")
 
     if option == "1":
-
         print("")
         varinitial = eval(input("Valeur initiale : "))
         print("")
@@ -22,7 +21,6 @@ while 1:
         print("")
         varevol = ( ( varfinal - varinitial ) / varinitial ) * 100
         print("Variation de l'évolution :", varevol, "%")
-
     elif option == "2":
         print("")
         print("Infos :")
